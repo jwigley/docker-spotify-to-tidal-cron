@@ -38,8 +38,7 @@ Be sure to set `TZ` to ensure the schedule runs in your timezone.
 The default cron job (scheduled to run the script once a day at 0:00) can be overriden by
 mounting your cron job to `/etc/crontabs/root`.
 
-```
-bash
+```bash
 -v $PWD/override-cron:/etc/crontabs/root
 ```
 
