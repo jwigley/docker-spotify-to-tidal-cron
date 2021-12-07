@@ -1,7 +1,15 @@
 # docker-spotify-to-tidal-cron
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jwigley/docker-spotify-to-tidal-cron/Master?label=build%20%28master%29)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/jwigley/spotify-to-tidal-cron/latest)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jwigley/spotify-to-tidal-cron.svg)](https://hub.docker.com/r/jwigley/spotify-to-tidal-cron/)
+
 Dockerised [spotify-to-tidal](https://github.com/timrae/spotify_to_tidal) playlist converter
 script with cron setup to run it once a day.
+
+## Docker repository
+
+[jwigley/spotify-to-tidal-cron](https://hub.docker.com/r/jwigley/spotify-to-tidal-cron)
 
 ## Run
 
